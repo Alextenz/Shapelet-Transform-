@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+   Badminton       1.00      0.80      0.89         5
+     Running       1.00      1.00      1.00         6
+    Standing       0.75      1.00      0.86         6
+     Walking       1.00      0.83      0.91         6
+
+    accuracy                           0.91        23
+   macro avg       0.94      0.91      0.91        23
+weighted avg       0.93      0.91      0.91        23

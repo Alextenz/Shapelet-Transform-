@@ -1,0 +1,10 @@
+                  precision    recall  f1-score   support
+
+raised_crosswalk       0.62      0.94      0.74        79
+  raised_markers       0.68      0.28      0.39        94
+      speed_bump       0.86      0.54      0.66       106
+  vertical_patch       0.63      0.94      0.75       111
+
+        accuracy                           0.67       390
+       macro avg       0.70      0.67      0.64       390
+    weighted avg       0.70      0.67      0.64       390
